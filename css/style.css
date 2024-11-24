@@ -1,0 +1,14 @@
+.logo {
+  height: 60px;
+  width: auto;
+}
+
+.review-input {
+  border: none;
+  border-bottom: 1px solid #ccc;
+  width: 100%;
+}
+
+.review-input:focus {
+  outline: none;
+}
